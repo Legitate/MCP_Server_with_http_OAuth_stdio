@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "Charlie",
+    "department": "Engineering",
+    "role": "Backend Engineer",
+    "email": "charlie@example.com",
+    "meta": {}
+  },
+  {
+    "id": "1764912497165",
+    "name": "Bob",
+    "department": "Engineering",
+    "role": "SWE",
+    "email": "bob@example.com"
+  },
+  {
+    "id": "1764912720495",
+    "name": "Charlie",
+    "department": "Engineering",
+    "role": "SWE",
+    "email": "charlie@example.com"
+  },
+  {
+    "id": "1764913010668",
+    "name": "Naveen",
+    "department": "Ads",
+    "role": "TL",
+    "email": "naveen@gmail.com"
+  },
+  {
+    "id": "1764916181730",
+    "name": "Vigneshraj",
+    "role": "TL",
+    "department": "Technology",
+    "email": "vignesh@gmail.com"
+  },
+  {
+    "id": "1764916523726",
+    "name": "API Test User",
+    "department": "Engineering",
+    "role": "SWE",
+    "email": "api-test@example.com"
+  }
+]
