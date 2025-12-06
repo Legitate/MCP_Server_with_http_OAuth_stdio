@@ -75,7 +75,7 @@ app.post("/mcp/call", (req, res) => {
         return res.json(JSON.parse(textContent));
       } catch {
         return res.json({ status: "ok", result: textContent });
-      }
+  }
     }
     return res.json({ status: "ok", result });
   } catch (error) {
